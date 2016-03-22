@@ -15,3 +15,5 @@
 //= require turbolinks
 //= require_tree .
 //= stub background_image
+//= stub background_image_superman
+
