@@ -5,6 +5,10 @@ Rails.application.routes.draw do
 
   get 'pages/batmanvssuperman'
 
+  get 'experiments/page1'
+  get 'experiments/page2'
+  get 'experiments/page3'
+
   root 'pages#batmanvssuperman'
 
 
