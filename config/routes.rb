@@ -9,6 +9,8 @@ Rails.application.routes.draw do
   get 'experiments/page2'
   get 'experiments/page3'
 
+  post 'pages/save_heroe'
+
   root 'pages#batmanvssuperman'
 
 
