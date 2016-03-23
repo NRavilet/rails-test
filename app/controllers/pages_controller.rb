@@ -21,4 +21,5 @@ class PagesController < ApplicationController
       render :votes
     end
   end
+  
 end
